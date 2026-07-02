@@ -201,7 +201,3 @@ This was built as a focused 1-hour project to demonstrate the core pattern. Prod
 - Event sourcing — state derived from an immutable event log
 - Background worker separation from API process
 - Exponential backoff and dead letter handling
-
----
-
-*Built to solve a real problem AI agent infrastructure teams hit early. The pattern scales from a 3-person startup to production — the primitives don't change, only the execution layer underneath.*
